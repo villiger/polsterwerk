@@ -18,19 +18,53 @@ body {
   font-family: sans-serif;
   font-size: 14px;
   font-weight: 200;
-  background: #000000 url(../img/bg.jpg) center center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
   padding: 0;
   margin: 0;
+  background: #000000 url(../img/bg.jpg) center center no-repeat;
+  background-size: cover;
+  background-position: fixed;
 }
-body .logo {
-  position: fixed;
-  top: 30px;
-  right: 30px;
+body .main {
+  margin-left: 300px;
+  width: 500px;
+  min-height: 100%;
+  background-color: rgba(255, 255, 255, 0.95);
+}
+body .main .header {
+  position: relative;
+  height: 140px;
+}
+body .main .header .logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;
   width: 300px;
   height: 101px;
   background: url(../img/logo.png) top right no-repeat;
+}
+body .main .navigation {
+  height: 35px;
+  list-style: none;
+  margin: 20px 0;
+  padding: 0;
+}
+body .main .navigation li {
+  float: left;
+  padding: 10px 20px;
+  margin: 0;
+  font-size: 15px;
+  line-height: 15px;
+  cursor: pointer;
+  border-right: 1px solid black;
+}
+body .main .navigation li:hover, body .main .navigation li.selected {
+  color: #a43863;
+  border-color: #a43863;
+}
+body .main .content {
+  padding: 20px;
+  text-align: justify;
+  text-justify: newspaper;
 }
 html, body {
   height: 100%;
