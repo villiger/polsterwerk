@@ -37,6 +37,7 @@ body {
 		width: @mainWidth;
 		min-height: 100%;
 		background-color: rgba(255, 255, 255, 0.95);
+		box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
 
 		.header {
 			position: relative;
@@ -62,18 +63,27 @@ body {
 			//background-color: rgba(164, 56, 99, 0.2);
 			
 			li {
-				float: left;
-				padding: 10px 20px;
 				margin: 0;
-				font-size: 15px;
-				line-height: 15px;
-				cursor: pointer;
+				padding: 0;
+				float: left;
 				border-right: 1px solid black;
+
+				> a {
+					display: block;
+					float: left;
+					padding: 10px 20px;
+					color: black;
+					font-size: 15px;
+					line-height: 15px;
+					text-decoration: none;
+				}
 				
 				&:hover, &.selected {
-					//background-color: rgba(255, 255, 255, 0.3);
-					color: #a43863;
-					border-color: #a43863;
+					border-color: #b3567b;
+
+					> a {
+						color: #b3567b;
+					}
 				}
 			}
 		}

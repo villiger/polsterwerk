@@ -1,0 +1,22 @@
+- Polsterungen (Neupolsterungen und Aufpolsterungen; traditionell und modern)
+- Neubezüge
+- Teilersatz
+- Kissen nach Mass
+- Spezialanfertigung
+- Houssen (Überzüge)
+- Accessoires
+- Plissée
+- Diverse Näharbeiten
+- Kleine Holzarbeiten
+- Verleimungen von Möbeln
+- Beratung
+- Transport (Liefer- und Abolservice)
+- Materialien: Stoff (synthetisch und auf natürlicher Basis), Leder, Kunstleder, Outdoorstoff, Filz, Mikrofaser, Fell, Tierfelle
+- Grosse Auswahl, verschiedene Kollektionen wie auch eine kompetente Beratung die all ihre Wünsche zu Erfüllen versucht
+- Eigene Wünsche werden sehr gerne berücksichtigt (auf die Suche nach gewissen Stoffen machen (nach Fotos, Bildern))
+- Billerbeck Duvets und Decken
+- Bico und Happybett Matratzen
+- Stoff- und andere Materialien werden für Eigengebrauch verkauft
+- Reparaturarbeiten (gerissene Nähte - Sonnenschrirme, Abdeckungen...)
+
+(alle Services auch für Grosskunden, wie Gastronomie und Clubs)

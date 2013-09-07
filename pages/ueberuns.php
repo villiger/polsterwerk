@@ -1,0 +1,10 @@
+- Erfahrung (7 Jahre, 2005 - 2009, Ausbildung in Niederrohrdorf, Franz Buck Wohnfreude: Beratung, Verkauf, Einkauf, Produktion und Ausbildnern)
+- Referenzen:
+	- Kaufleuten: Lounge, Sessel, Sofas
+	- Almodobar (ZH, ZG, AG): Lounge und Barhocker
+	- Burg Café in Rapperswil: Lounge und Stühle
+	- Für verschiedene namhafte Hotels und Restaurants: Longe, Sessel, Sofa
+	- Helmhaus Zürich: Hocker
+	- Hotel Kronen in Lenzburg: Sofas
+- Zuverlässig, Genauigkeit
+- Stärken: Nähen

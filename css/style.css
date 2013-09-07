@@ -29,6 +29,7 @@ body .main {
   width: 500px;
   min-height: 100%;
   background-color: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
 }
 body .main .header {
   position: relative;
@@ -49,17 +50,25 @@ body .main .navigation {
   padding: 0;
 }
 body .main .navigation li {
-  float: left;
-  padding: 10px 20px;
   margin: 0;
-  font-size: 15px;
-  line-height: 15px;
-  cursor: pointer;
+  padding: 0;
+  float: left;
   border-right: 1px solid black;
 }
+body .main .navigation li > a {
+  display: block;
+  float: left;
+  padding: 10px 20px;
+  color: black;
+  font-size: 15px;
+  line-height: 15px;
+  text-decoration: none;
+}
 body .main .navigation li:hover, body .main .navigation li.selected {
-  color: #a43863;
-  border-color: #a43863;
+  border-color: #b3567b;
+}
+body .main .navigation li:hover > a, body .main .navigation li.selected > a {
+  color: #b3567b;
 }
 body .main .content {
   padding: 20px;
