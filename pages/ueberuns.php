@@ -1,3 +1,5 @@
+<img class="title" src="/img/ueberuns_nadine.jpg" alt="Sofa gepolstert" />
+
 <div class="content">
     <h1>Nadine Villiger</h1>
 

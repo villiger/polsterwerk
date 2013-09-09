@@ -9,9 +9,7 @@ a:hover {
   color: #b3567b;
   text-decoration: underline;
 }
-h1,
-h2,
-h3 {
+h1, h2, h3 {
   font-weight: 200;
 }
 h1 {
@@ -81,12 +79,10 @@ body .main .navigation li > a {
   line-height: 15px;
   text-decoration: none;
 }
-body .main .navigation li:hover,
-body .main .navigation li.selected {
+body .main .navigation li:hover, body .main .navigation li.selected {
   border-color: #b3567b;
 }
-body .main .navigation li:hover > a,
-body .main .navigation li.selected > a {
+body .main .navigation li:hover > a, body .main .navigation li.selected > a {
   color: #b3567b;
 }
 body .main .content {
@@ -107,7 +103,6 @@ body .main .title {
   border-top: 1px solid #aaa;
   border-bottom: 1px solid #aaa;
 }
-html,
-body {
+html, body {
   height: 100%;
 }
