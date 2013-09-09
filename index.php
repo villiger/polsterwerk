@@ -13,7 +13,8 @@ $page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default
 <!doctype html>
 <html>
 <head>
-	<meta charset="utf-8"> 
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=600">
 	<title>Polsterwerk</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
