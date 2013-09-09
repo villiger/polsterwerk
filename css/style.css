@@ -108,7 +108,7 @@ html, body {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   html {
-    background-attachment: inherit;
+    background-attachment: scroll;
     -webkit-background-size: auto 100%;
     -moz-background-size: auto 100%;
     -o-background-size: auto 100%;
