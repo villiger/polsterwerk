@@ -14,7 +14,7 @@ $page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=600">
+	<meta name="viewport" content="width=500, initial-scale=1, user-scalable=false">
 	<title>Polsterwerk</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
