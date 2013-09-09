@@ -1,13 +1,14 @@
 <?php
-$page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : 'ueberuns';
-
 $navigation = array(
-	'ueberuns' => 'Über uns',
-	'leistungen' => 'Leistungen',
-	'gallerie' => 'Gallerie',
-	'kontakt' => 'Kontakt'
+    'leistungen' => 'Leistungen',
+    //'gallerie' => 'Gallerie',
+    'ueberuns' => 'Über uns',
+    'kontakt' => 'Kontakt',
 );
 
+$ids = array_keys($navigation);
+$default = $ids[0];
+$page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default;
 ?>
 <!doctype html>
 <html>
@@ -28,10 +29,7 @@ $navigation = array(
 				</li>
 			<?php endforeach; ?>
 		</ul>
-		<div class="content">
-			<?php include('pages/' . $page . '.php'); ?>
-		</div>
+        <?php include('pages/' . $page . '.php'); ?>
 	</div>
-	<div class="bg"></div>
 </body>
 </html>

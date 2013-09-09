@@ -1,22 +1,52 @@
-- Polsterungen (Neupolsterungen und Aufpolsterungen; traditionell und modern)
-- Neubezüge
-- Teilersatz
-- Kissen nach Mass
-- Spezialanfertigung
-- Houssen (Überzüge)
-- Accessoires
-- Plissée
-- Diverse Näharbeiten
-- Kleine Holzarbeiten
-- Verleimungen von Möbeln
-- Beratung
-- Transport (Liefer- und Abolservice)
-- Materialien: Stoff (synthetisch und auf natürlicher Basis), Leder, Kunstleder, Outdoorstoff, Filz, Mikrofaser, Fell, Tierfelle
-- Grosse Auswahl, verschiedene Kollektionen wie auch eine kompetente Beratung die all ihre Wünsche zu Erfüllen versucht
-- Eigene Wünsche werden sehr gerne berücksichtigt (auf die Suche nach gewissen Stoffen machen (nach Fotos, Bildern))
-- Billerbeck Duvets und Decken
-- Bico und Happybett Matratzen
-- Stoff- und andere Materialien werden für Eigengebrauch verkauft
-- Reparaturarbeiten (gerissene Nähte - Sonnenschrirme, Abdeckungen...)
+<img class="title" src="/img/title.jpg" alt="Sofa gepolstert" />
 
-(alle Services auch für Grosskunden, wie Gastronomie und Clubs)
+<div class="content">
+    <p>
+        Sie haben ein Sofa oder Stühle daheim, die herrlich zum Wohnzimmer oder zum grossen Tisch in der Küche passen,
+        aber der Bezug ist verbraucht oder das Polster ist durchgesessen?
+    </p>
+    <p>
+        Wir beziehen und polstern ihre alten aber lieb gewonnenen Möbel neu.
+    </p>
+
+    <h2>Folgende Leistungen bieten wir Ihnen an:</h2>
+
+    <ul>
+        <li>Polsterungen: Neupolsterungen und Aufpolsterungen - traditionell und modern</li>
+        <li>Neubezüge</li>
+        <li>Teilersatz</li>
+        <li>Spezialanfertigung</li>
+        <li>Houssen (Überzüge)</li>
+        <li>Diverse Näharbeiten</li>
+        <li>Kleine Holzarbeiten</li>
+        <li>Verleimungen von Möbeln</li>
+        <li>Liefer- und Abolservice</li>
+        <li>Reparaturarbeiten: Gerissene Nähte, Sonnenschrirme, Abdeckungen usw.</li>
+        <li>Wir bieten ihnen eine grosse Auswahl an Materialien an und beraten Sie individuell:
+            <ul>
+                <li>Stoff: Synthetisch und auf natürlicher Basis</li>
+                <li>Leder</li>
+                <li>Kunstleder</li>
+                <li>Tierfell</li>
+                <li>Kunstfell</li>
+                <li>Outdoorstoff</li>
+                <li>Filz</li>
+                <li>Mikrofaser</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>Folgendes können Sie bei uns bestellen:</h2>
+
+    <ul>
+        <li>Kissen nach Mass</li>
+        <li>Accessoires</li>
+        <li><a href="http://www.erfal.de/">Erfal</a> Plissée</li>
+        <li><a href="http://www.billerbeck.ch/">Billerbeck</a> Duvets und Decken</li>
+        <li><a href="http://www.bico.ch/">Bico</a> und <a href="http://www.happy.ch/">Happybett</a> Matratzen</li>
+        <li><a href="http://www.winter-home.ch/">Winter Home</a> Accessiores</li>
+        <li>Stoffe, Leder und andere Materialien für den Eigengebrauch</li>
+    </ul>
+
+    <p>Alle Services werden auch für Grosskunden, wie Gastronomie und Clubs, angeboten.</p>
+</div>
