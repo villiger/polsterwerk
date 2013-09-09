@@ -41,10 +41,11 @@
     <ul>
         <li>Kissen nach Mass</li>
         <li>Accessoires</li>
-        <li><a href="http://www.erfal.de/">Erfal</a> Plissée</li>
-        <li><a href="http://www.billerbeck.ch/">Billerbeck</a> Duvets und Decken</li>
-        <li><a href="http://www.bico.ch/">Bico</a> und <a href="http://www.happy.ch/">Happybett</a> Matratzen</li>
-        <li><a href="http://www.winter-home.ch/">Winter Home</a> Accessiores</li>
+        <li><a href="http://www.erfal.de/" target="_blank" rel="nofollow">Erfal</a> Plissée</li>
+        <li><a href="http://www.billerbeck.ch/" target="_blank" rel="nofollow">Billerbeck</a> Duvets und Decken</li>
+        <li><a href="http://www.bico.ch/" target="_blank" rel="nofollow">Bico</a> und
+			<a href="http://www.happy.ch/" target="_blank" rel="nofollow">Happybett</a> Matratzen</li>
+        <li><a href="http://www.winter-home.ch/" target="_blank" rel="nofollow">Winter Home</a> Accessiores</li>
         <li>Stoffe, Leder und andere Materialien für den Eigengebrauch</li>
     </ul>
 

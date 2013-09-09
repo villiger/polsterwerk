@@ -9,8 +9,9 @@
         wichtig.
     </p>
     <p>
-        Meine Ausbildung habe ich in Niederrohrdorf bei Franz Buck Wonfreude abgeschlossen. Anschliessend habe ich dort weitere drei
-        Jahre in Produktion, Beratung, Verkauf und Einkauf gearbeitet. Während dessen bildete ich drei Lehrlinge aus.
+        Meine Ausbildung habe ich in Niederrohrdorf bei Franz Buck Wohnfreude abgeschlossen. Anschliessend habe ich
+		dort weitere drei Jahre in Produktion, Beratung, Verkauf und Einkauf gearbeitet. Während dessen bildete ich
+		drei Lehrlinge aus.
     </p>
     <p>
         Bei Franz Buck habe ich unter anderem für das Kaufleuten Zürich die Lounges, Sessel und Sofa bezogen. Für die
