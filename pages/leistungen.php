@@ -21,8 +21,8 @@
         <li>Diverse Näharbeiten</li>
         <li>Kleine Holzarbeiten</li>
         <li>Verleimungen von Möbeln</li>
-        <li>Liefer- und Abolservice</li>
-        <li>Reparaturarbeiten: Gerissene Nähte, Sonnenschrirme, Abdeckungen usw.</li>
+        <li>Liefer- und Abholservice</li>
+        <li>Reparaturarbeiten: Gerissene Nähte, Sonnenschirme, Abdeckungen usw.</li>
         <li>Wir bieten ihnen eine grosse Auswahl an Materialien an und beraten Sie individuell:
             <ul>
                 <li>Stoff: Synthetisch und auf natürlicher Basis</li>
