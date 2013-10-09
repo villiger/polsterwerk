@@ -1,6 +1,7 @@
 <img class="title" src="/img/title.jpg" alt="Sofa gepolstert" />
 
 <div class="content">
+	<h1>Polsterungen und Neubezüge von Möbeln <small>für Privat- und Geschäftskunden</small></h1>
     <p>
         Sie haben ein Sofa oder Stühle daheim, die herrlich zum Wohnzimmer oder zum grossen Tisch in der Küche passen,
         aber der Bezug ist verbraucht oder das Polster ist durchgesessen?
