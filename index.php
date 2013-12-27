@@ -1,7 +1,7 @@
 <?php
 $navigation = array(
     'leistungen' => 'Leistungen',
-    //'gallerie' => 'Gallerie',
+    'galerie' => 'Galerie',
     'ueberuns' => 'Über uns',
     'kontakt' => 'Kontakt',
 );
@@ -18,8 +18,11 @@ $page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default
 	<meta name="description" content="Wir polstern und beziehen ihre alten Möbel neu - Sofas, Sessel, Stühle etc.">
 	<title>Polsterwerk</title>
 	<link rel="stylesheet" href="/css/style.css" type="text/css">
+    <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/lightbox.js"></script>
 </head>
 <body>
 	<div class="main">
