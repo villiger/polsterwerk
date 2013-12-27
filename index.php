@@ -16,7 +16,7 @@ $page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=600">
 	<meta name="description" content="Wir polstern und beziehen ihre alten Möbel neu - Sofas, Sessel, Stühle etc.">
-	<title>Polsterwerk</title>
+	<title>Polsterwerk &middot; <?= $navigation[$page] ?></title>
 	<link rel="stylesheet" href="/css/style.css" type="text/css">
     <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
