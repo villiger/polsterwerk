@@ -1,6 +1,14 @@
 <img class="title" src="/img/title.jpg" alt="Sofa gepolstert" />
 
 <div class="content">
+    <div class="in-der-az">
+        <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><img src="/img/az.png" alt="AZ Logo"></a>
+        <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><strong>Nadine Villiger zeigt ihr Handwerk im Museum</strong></a><br>
+        Das Ortsmuseum hat zum internationalen Museumstag eine Ausstellung zum Polsterhandwerk eröffnet.<br>
+        &ndash; <em>Artikel in der Aargauer Zeitung</em>
+        <div class="clear"></div>
+    </div>
+
 	<h1>Polsterungen und Neubezüge von Möbeln <small>für Privat- und Geschäftskunden</small></h1>
     <p>
         Sie haben ein Sofa oder Stühle daheim, die herrlich zum Wohnzimmer oder zum grossen Tisch in der Küche passen,
