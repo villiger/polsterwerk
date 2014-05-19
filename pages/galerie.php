@@ -9,6 +9,7 @@
 
 		$images = array();
 		$files = scandir($imageDir);
+        usort($files);
 		foreach ($files as $file) {
 			if (! preg_match('/^\./', $file)) {
 				$sourcePath = $imageDir . $file;
