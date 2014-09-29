@@ -1,6 +1,6 @@
 <?php
 $navigation = array(
-    'leistungen' => 'Leistungen',
+    'leistungen' => '',
     'galerie' => 'Galerie',
     'ueberuns' => 'Über uns',
     'kontakt' => 'Kontakt',
@@ -9,6 +9,7 @@ $navigation = array(
 $ids = array_keys($navigation);
 $default = $ids[0];
 $page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default;
+$pageTitle = $navigation[$page];
 ?>
 <!doctype html>
 <html>
@@ -16,7 +17,7 @@ $page = isset($_GET['page']) && !empty($_GET['page']) ? $_GET['page'] : $default
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=600">
 	<meta name="description" content="Wir polstern und beziehen ihre alten Möbel neu - Sofas, Sessel, Stühle etc.">
-	<title>Polsterwerk &middot; <?= $navigation[$page] ?></title>
+	<title>Polsterwerk<?php if (!empty($pageTitle)): ?> &middot; <?= $pageTitle ?><?php endif; ?></title>
 	<link rel="stylesheet" href="/css/style.css" type="text/css">
     <link rel="stylesheet" href="/css/lightbox.css" type="text/css">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
