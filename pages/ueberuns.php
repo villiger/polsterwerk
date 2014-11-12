@@ -4,7 +4,7 @@
     <h1>Nadine Villiger</h1>
 
     <p>
-        Mit sieben Jahren Berufserfahrung in der Polsterei, der Innendokoration und dem Verkauf kann ich ihnen eine
+        Mit acht Jahren Berufserfahrung in der Polsterei, der Innendokoration und dem Verkauf kann ich ihnen eine
         umfassende Beratung und einwandfreie Dienstleistung anbieten. Mir sind Verlässlichkeit und Genauigkeit sehr
         wichtig.
     </p>
