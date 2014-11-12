@@ -1,6 +1,8 @@
 <img class="title" src="/img/title.jpg" alt="Sofa gepolstert" />
 
 <div class="content">
+    <img src="/img/flyer_29nov14.png" alt="Tag der offenen Tür" style="width: 440px; margin: -10px -10px 20px -10px;">
+
     <div class="in-der-az">
         <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><img src="/img/az.png" alt="AZ Logo"></a>
         <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><strong>Nadine Villiger zeigt ihr Handwerk im Museum</strong></a><br>
