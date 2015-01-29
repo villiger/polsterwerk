@@ -25,7 +25,7 @@
         <li>Neubezüge</li>
         <li>Teilersatz</li>
         <li>Spezialanfertigung</li>
-        <li>Houssen (Überzüge)</li>
+        <li>Hussen (Überzüge)</li>
         <li>Diverse Näharbeiten</li>
         <li>Kleine Holzarbeiten</li>
         <li>Verleimungen von Möbeln</li>
@@ -50,6 +50,8 @@
     <ul>
         <li>Kissen nach Mass</li>
         <li>Accessoires</li>
+        <li>Kuhfelle, Zebrafelle etc.</li>
+        <li><a href="http://www.giorgetti.eu" target="_blank" rel="nofollow">Giorgetti</a> Hussen direkt aus Italien</li>
         <li><a href="http://www.erfal.de/" target="_blank" rel="nofollow">Erfal</a> Plissée</li>
         <li><a href="http://www.billerbeck.ch/" target="_blank" rel="nofollow">Billerbeck</a> Duvets und Decken</li>
         <li><a href="http://www.roviva.ch/" target="_blank" rel="nofollow">Roviva</a> Betten</li>
