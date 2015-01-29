@@ -29,7 +29,7 @@
         <li>Diverse Näharbeiten</li>
         <li>Kleine Holzarbeiten</li>
         <li>Verleimungen von Möbeln</li>
-        <li>Liefer- und Abholservice</li>
+        <li>Liefer- und Abholservice in der ganzen Schweiz</li>
         <li>Reparaturarbeiten: Gerissene Nähte, Sonnenschirme, Abdeckungen usw.</li>
         <li>Wir bieten ihnen eine grosse Auswahl an Materialien an und beraten Sie individuell:
             <ul>
