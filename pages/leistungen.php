@@ -1,8 +1,6 @@
 <img class="title" src="/img/title.jpg" alt="Sofa gepolstert" />
 
 <div class="content">
-    <img src="/img/flyer_29nov14.png" alt="Tag der offenen Tür" style="width: 438px; border: 1px solid #ddd; margin: 0 -10px 20px -10px;">
-
     <div class="in-der-az">
         <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><img src="/img/az.png" alt="AZ Logo"></a>
         <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><strong>Nadine Villiger zeigt ihr Handwerk im Museum</strong></a><br>
@@ -58,6 +56,8 @@
         <li><a href="http://www.winter-home.ch/" target="_blank" rel="nofollow">Winter Home</a> Accessiores</li>
         <li>Stoffe, Leder und andere Materialien für den Eigengebrauch</li>
     </ul>
+
+    <p>Offerten sind unverbindlich und kostenlos.</p>
 
     <p>Alle Services werden auch für Grosskunden, wie Gastronomie und Clubs, angeboten.</p>
 </div>
