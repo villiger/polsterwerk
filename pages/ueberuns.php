@@ -4,7 +4,7 @@
     <h1>Nadine Villiger</h1>
 
     <p>
-        Mit acht Jahren Berufserfahrung in der Polsterei, der Innendokoration und dem Verkauf kann ich ihnen eine
+        Mit mehr als zehn Jahren Berufserfahrung in der Polsterei, der Innendokoration und dem Verkauf kann ich ihnen eine
         umfassende Beratung und einwandfreie Dienstleistung anbieten. Mir sind Verlässlichkeit und Genauigkeit sehr
         wichtig.
     </p>
@@ -14,10 +14,16 @@
 		drei Lehrlinge aus.
     </p>
     <p>
-        Bei Franz Buck habe ich unter anderem für das Kaufleuten Zürich die Lounges, Sessel und Sofa bezogen. Für die
-        Almodobar in Zürich, Baden und Zug baute ich die Lounge und polsterte die Barhocker. Weitere nennenswerte
-        Kunden aus der <strong>Gastronomie</strong> waren:
+        Unter anderem habe ich für das Kaufleuten Zürich die Lounges, Sessel und Sofa bezogen. Für die
+        Almodobar in Zürich, Baden und Zug baute ich die Lounge und polsterte die Barhocker.
+    </p>
+    <p>
+        Weitere nennenswerte Kunden aus der <strong>Gastronomie</strong>:
         <ul>
+            <li>Hotel Riverside in Glattfelden: Lounge</li>
+            <li>Tomate Steakhouse in Fislisbach: Stühle</li>
+            <li>Café Alexanders in Berikon: Bänke</li>
+            <li>Quai 61 in Zürich: Lounge</li>
             <li>Burg Café in Rapperswil: Lounge und Stühle</li>
             <li>Helmhaus Zürich: Hocker</li>
             <li>Hotel Kronen in Lenzburg: Sofas</li>
