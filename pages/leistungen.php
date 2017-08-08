@@ -1,14 +1,13 @@
 <img class="title" src="/img/title.jpg" alt="Sofa gepolstert" />
 
 <div class="content">
-
 	<h1>Polsterungen und Neubezüge von Möbeln <small>für Privat- und Geschäftskunden</small></h1>
     <p>
         Sie haben ein Sofa oder Stühle daheim, die herrlich zum Wohnzimmer oder zum grossen Tisch in der Küche passen,
         aber der Bezug ist verbraucht oder das Polster ist durchgesessen?
     </p>
     <p>
-        Wir beziehen und polstern ihre alten aber lieb gewonnenen Möbel neu.
+        Wir beziehen und polstern Ihre alten aber lieb gewonnenen Möbel neu.
     </p>
 
     <h2>Folgende Leistungen bieten wir Ihnen an:</h2>
