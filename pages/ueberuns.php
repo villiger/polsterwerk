@@ -35,7 +35,7 @@
         </ul>
     </p>
     <p>
-        Daneben habe ich selbstverständlich auch die Wünsche von vielen <strong>Privatkunden</strong> erfüllt und für
+        Daneben habe ich auch die Wünsche von vielen <strong>Privatkunden</strong> erfüllt und für
         deren Wohnungen individuelle Polsterungen und Bezüge gemacht.
     </p>
 </div>
