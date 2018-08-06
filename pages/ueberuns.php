@@ -20,15 +20,18 @@
     <p>
         Weitere nennenswerte Kunden aus der <strong>Gastronomie</strong>:
         <ul>
-            <li>Hotel Riverside in Glattfelden: Lounge</li>
-            <li>Tomate Steakhouse in Fislisbach: Stühle</li>
-            <li>Café Alexanders in Berikon: Bänke</li>
-            <li>Quai 61 in Zürich: Lounge</li>
-            <li>Burg Café in Rapperswil: Lounge und Stühle</li>
-            <li>Helmhaus Zürich: Hocker</li>
-            <li>Hotel Kronen in Lenzburg: Sofas</li>
-            <li>Restaurant Hirschli in Baden: Sitzkissen</li>
-            <li>Altersheim in Horgen: Stühle</li>
+            <li>Migros-Restaurants, ganze Schweiz</li>
+            <li>Technorama, Winterthur</li>
+            <li>Hotel Riverside, Glattfelden</li>
+            <li>Migros Fitnesspark, Zürich</li>
+            <li>Café Alexanders, Berikon</li>
+            <li>Quai 61, Zürich</li>
+            <li>Burg Café, Rapperswil</li>
+            <li>Helmhaus, Zürich</li>
+            <li>Schreinerei Peterhans, Schibli &amp; Co., Fislisbach</li>
+            <li>Hotel Kronen, Lenzburg</li>
+            <li>Restaurant Hirschli, Baden</li>
+            <li>Altersheim Tödi, Horgen</li>
         </ul>
     </p>
     <p>
