@@ -27,11 +27,14 @@
             <li>Café Alexanders, Berikon</li>
             <li>Quai 61, Zürich</li>
             <li>Burg Café, Rapperswil</li>
+            <li>Hotel Alpin Sherpa, Meiringen</li>
             <li>Helmhaus, Zürich</li>
             <li>Schreinerei Peterhans, Schibli &amp; Co., Fislisbach</li>
             <li>Hotel Kronen, Lenzburg</li>
-            <li>Restaurant Hirschli, Baden</li>
             <li>Altersheim Tödi, Horgen</li>
+            <li>Restaurant Hirschli, Baden</li>
+            <li>Altersheim, Schinznach</li>
+            <li>Ocean Club, Badenfahrt 2017</li>
         </ul>
     </p>
     <p>
