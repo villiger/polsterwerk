@@ -24,6 +24,7 @@
             <li>Technorama, Winterthur</li>
             <li>Hotel Riverside, Glattfelden</li>
             <li>Migros Fitnesspark, Zürich</li>
+            <li>Bergbahnen, Arosa-Lenzerheide</li>
             <li>Café Alexanders, Berikon</li>
             <li>Quai 61, Zürich</li>
             <li>Burg Café, Rapperswil</li>
