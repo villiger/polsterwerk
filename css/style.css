@@ -107,17 +107,6 @@ body .main .title {
   border-top: 1px solid #aaa;
   border-bottom: 1px solid #aaa;
 }
-body .main .gallery {
-  margin-left: -20px;
-}
-body .main .gallery img {
-  float: left;
-  margin-left: 20px;
-  margin-bottom: 20px;
-  border: 1px solid #aaa;
-  width: 198px;
-  height: 198px;
-}
 html,
 body {
   height: 100%;

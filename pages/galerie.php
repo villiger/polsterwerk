@@ -10,22 +10,22 @@
 		get: 'user',
 		userId: '2231736641',
 		accessToken: '2231736641.1677ed0.df6b0200364642d3a060c53322348cda',
-		resolution: 'low_resolution',
+		resolution: 'standard_resolution',
 		sortBy: 'random',
-		limit: 16,
-		template: '<a href="{{link}}" data-lightbox="galerie" id="{{id}}" style="background-image: url({{image}});"></a>'
+		limit: 40,
+		template: '<a href="{{image}}" data-lightbox="galerie" id="{{id}}" style="background-image: url({{image}});"></a>'
 	});
 	userFeed.run();
 </script>
 <style>
 	.gallery {
-		margin-left: -20px;
-		margin-right: -20px;
+		margin-left: -10px;
+		margin-right: -10px;
 	}
 
 	.instafeed a {
 		float: left;
-		margin: 20px;
+		margin: 10px;
 		width: 200px;
 		height: 200px;
 		background-size: cover;
