@@ -18,6 +18,11 @@
 	userFeed.run();
 </script>
 <style>
+	.gallery {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+
 	.instafeed a {
 		float: left;
 		margin: 20px;
