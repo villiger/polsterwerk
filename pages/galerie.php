@@ -2,7 +2,7 @@
 	<div class="gallery">
 		<div id="instafeed" class="instafeed"></div>
         <div class="clear"></div>
-		<div style="margin-top: 20px;">
+		<div style="margin: 10px; margin-top: 20px;">
 			<a href="https://www.instagram.com/polsterwerk/" target="_blank">Mehr Bilder auf Instagram</a>
 		</div>
 	</div>
@@ -22,15 +22,15 @@
 </script>
 <style>
 	.gallery {
-		margin-left: -10px;
-		margin-right: -10px;
+		margin-left: -30px;
+		margin-right: -30px;
 	}
 
 	.instafeed a {
 		float: left;
 		margin: 10px;
-		width: 200px;
-		height: 200px;
+		width: 220px;
+		height: 220px;
 		background-size: cover;
 		background-repeat: none;
 		background-position: center center;
