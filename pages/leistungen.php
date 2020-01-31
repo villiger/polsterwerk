@@ -62,10 +62,9 @@
     <p>Alle Services werden auch für Grosskunden, wie Gastronomie und Clubs, angeboten.</p>
 
     <div class="in-der-az">
-        <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><img src="/img/az.png" alt="AZ Logo"></a>
-        <a href="http://www.aargauerzeitung.ch/aargau/baden/nadine-villiger-zeigt-ihr-handwerk-im-museum-127991081" target="_blank" rel="nofollow"><strong>Nadine Villiger zeigt ihr Handwerk im Museum</strong></a><br>
-        Das Ortsmuseum hat zum internationalen Museumstag eine Ausstellung zum Polsterhandwerk eröffnet.<br>
-        &ndash; <em>Artikel in der Aargauer Zeitung</em>
+        <a href="https://www.prontopro.ch/de/blog/aus-alt-mach-neu/" target="_blank" rel="nofollow"><img src="/img/artikel.jpg" alt="Aus alt mach Neu!"></a>
+        <a href="https://www.prontopro.ch/de/blog/aus-alt-mach-neu/" target="_blank" rel="nofollow"><strong>Aus alt mach Neu!</strong></a><br>
+        Nadine Villiger im Interview, auf dem Blog von ProntoPro.<br>
         <div class="clear"></div>
     </div>
 </div>
